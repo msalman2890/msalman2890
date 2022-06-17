@@ -21,6 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Flutter with AI Pair Programmer &lpar;Github Copilot&rpar; | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=Xar12ksH3Bk)
+- [Fiverr Gig Creation | Freelancing](https://www.youtube.com/watch?v=cf6nnCA5GaE)
+- [Fiverr Account Setup | Freelancing](https://www.youtube.com/watch?v=p-vAVnzhvyo)
+- [Fiverr Platform Introduction | Freelancing](https://www.youtube.com/watch?v=kzY1LPRIrOA)
+- [Flutter Performance Tips | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=V7CaJE0cKGE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
