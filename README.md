@@ -24,7 +24,7 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1)
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCATx8nc98fm8y2zayfDZz_A?sub_confirmation=1)
 
 ---
 
