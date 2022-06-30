@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Orientation Builder | Responsive Layout | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=19JF_67uaFw)
 - [Layout Builder | Responsive Layout | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=h7h4ZhdKUdI)
 - [Shopping Cart Management For Ecommerce App | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=2EVgun35kOE)
 - [Useful &amp; Interesting List Methods | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=Vb8TVO9_QVk)
 - [Flutter with AI Pair Programmer &lpar;Github Copilot&rpar; | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=Xar12ksH3Bk)
-- [Fiverr Gig Creation | Freelancing](https://www.youtube.com/watch?v=cf6nnCA5GaE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
