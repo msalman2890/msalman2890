@@ -33,6 +33,16 @@
 
 ---
 
+# 📝 Famous Tech Blogs :
+
+- [Responsive Layouts in Flutter](https://salmanbediya.medium.com/responsive-layouts-in-flutter-d5f9a51862c)
+- [Automatically adapt to API changes & Code Practices with Flutter Fix](https://salmanbediya.medium.com/automatically-adapt-to-api-changes-code-practices-with-flutter-fix-56c22a7a4380)
+- [Automate your Flutter code with Github Copilot](https://salmanbediya.medium.com/automate-your-flutter-code-with-github-copilot-3c5178f564a9)
+- [Render Dynamic Flutter Widgets Using JSON](https://salmanbediya.medium.com/render-dynamic-flutter-widgets-using-json-f8950e6ccc92)
+- [Take Screenshot of any Widget programmatically in Flutter](https://salmanbediya.medium.com/take-screenshot-of-any-widget-programmatically-in-flutter-2bf13e9a048d)
+
+---
+
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](http://buymeacoffee.com/mdsalmanshaikh)
   
