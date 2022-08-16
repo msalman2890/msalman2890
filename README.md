@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Type Promotion with Sound Null Safety | Urdu/Hindi](https://www.youtube.com/watch?v=icq9frta6hc)
 - [Mobile App Development - What | Why | How | Q/A](https://www.youtube.com/watch?v=1DUwoX7aH2k)
 - [Types of Button in Python - Flet &lpar;Flutter App Development&rpar; | Urdu/Hindi](https://www.youtube.com/watch?v=CMDhEHV_IqQ)
 - [Flutter Flashlight App | Fun Project for Beginners | Urdu/Hindi](https://www.youtube.com/watch?v=MJgUstAJKFk)
 - [Build your own Custom Controls in Python - Flet &lpar;Flutter App Development&rpar; | Urdu/Hindi](https://www.youtube.com/watch?v=Ji_NaeOjgjk)
-- [Python - Flet &lpar;Flutter Application Development&rpar; without Dart and Flutter SDK | Urdu/Hindi](https://www.youtube.com/watch?v=kchyv6679rI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
