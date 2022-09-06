@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GoRouter - Crash Course | Flutter 3 | Urdu/Hindi](https://www.youtube.com/watch?v=ebn86HqaKZc)
 - [Type Promotion with Sound Null Safety | Urdu/Hindi](https://www.youtube.com/watch?v=icq9frta6hc)
 - [Mobile App Development - What | Why | How | Q/A](https://www.youtube.com/watch?v=1DUwoX7aH2k)
 - [Types of Button in Python - Flet &lpar;Flutter App Development&rpar; | Urdu/Hindi](https://www.youtube.com/watch?v=CMDhEHV_IqQ)
 - [Flutter Flashlight App | Fun Project for Beginners | Urdu/Hindi](https://www.youtube.com/watch?v=MJgUstAJKFk)
-- [Build your own Custom Controls in Python - Flet &lpar;Flutter App Development&rpar; | Urdu/Hindi](https://www.youtube.com/watch?v=Ji_NaeOjgjk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
