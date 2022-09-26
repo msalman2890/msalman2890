@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Glimpse of Flutter Flush Conference](https://www.youtube.com/watch?v=utJS9khGfRA)
 - [Getx Workers | Understanding of Getx | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=mKFeOKsoYN4)
 - [Selection Area | Flutter 3.3 | Urdu/Hindi](https://www.youtube.com/watch?v=Omvt_phqZOM)
 - [Internationalization using Getx | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=oY83OpCujGA)
 - [GoRouter - Crash Course | Flutter 3 | Urdu/Hindi](https://www.youtube.com/watch?v=ebn86HqaKZc)
-- [Type Promotion with Sound Null Safety | Urdu/Hindi](https://www.youtube.com/watch?v=icq9frta6hc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
