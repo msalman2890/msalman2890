@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [All About Flutter Getx | Urdu/Hindi](https://www.youtube.com/watch?v=XOUaDTg9pzY)
 - [Hacktoberfest 2022 - Best Opportunity to Start Your Open Source Journey](https://www.youtube.com/watch?v=kq2nVgp6aI0)
 - [Manipulate Locations in iOS Simulator](https://www.youtube.com/watch?v=oGAd22dGT0g)
 - [Generate Source Code from FIgma/Adobe xD/Sketch | Dhiwise | Urdu/Hindi](https://www.youtube.com/watch?v=V0GtWw4CVqI)
 - [Glimpse of Flutter Flush Conference](https://www.youtube.com/watch?v=utJS9khGfRA)
-- [Getx Workers | Understanding of Getx | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=mKFeOKsoYN4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
