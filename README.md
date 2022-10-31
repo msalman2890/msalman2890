@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Getx Controller Life Cycle Methods | State Manager | Urdu/Hindi](https://www.youtube.com/watch?v=iNSF0DSkX3M)
 - [Getx Controller with Simple Example | State Manager | Urdu/Hindi](https://www.youtube.com/watch?v=-rjIxT0Xt5g)
 - [GetX Navigation Types | Routing Manager | Hindi/Urdu](https://www.youtube.com/watch?v=v9Lk1wrSz6A)
 - [GetX Named Routing | Routing Manager | Hindi/Urdu](https://www.youtube.com/watch?v=_1-AUrNTEeY)
 - [All About GetMaterialApp | Difference between MaterialApp &amp; GetMaterialApp | Urdu/Hindi](https://www.youtube.com/watch?v=G9GusnyR9sw)
-- [All About Flutter GetX | Why You Should Learn GetX | Urdu/Hindi](https://www.youtube.com/watch?v=XOUaDTg9pzY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
