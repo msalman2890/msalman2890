@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [HTML/Hex Colors in Flutter without Packages | Urdu/Hindi](https://www.youtube.com/watch?v=IsNL1k2KHcE)
 - [Getx Dialog without Context | Urdu/Hindi](https://www.youtube.com/watch?v=QWd02adghgk)
 - [Getx Controller Life Cycle Example | State Manager | Urdu/Hindi](https://www.youtube.com/watch?v=yvczDEA7N9w)
 - [Getx Controller Life Cycle Methods | State Manager | Urdu/Hindi](https://www.youtube.com/watch?v=iNSF0DSkX3M)
 - [Getx Controller with Simple Example | State Manager | Urdu/Hindi](https://www.youtube.com/watch?v=-rjIxT0Xt5g)
-- [GetX Navigation Types | Routing Manager | Hindi/Urdu](https://www.youtube.com/watch?v=v9Lk1wrSz6A)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
