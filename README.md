@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Now AI will write emails and letters for you. #chatgpt #emailwriting #letterwriting #AI #chatbot](https://www.youtube.com/watch?v=pptAjDyg-r0)
+- [Social Login in Just Few Click | @DhiWise | Urdu/Hindi](https://www.youtube.com/watch?v=DWb8LIaDCnI)
+- [Get all of your answers and solutions within 5 seconds by ChatGPT. #chatgpt #techshorts #AI #chatbot](https://www.youtube.com/watch?v=0SdjA9P6sPM)
 - [Login Interactive Form with Rive Animation | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=kNL5Eb451ns)
 - [HTML/Hex Colors in Flutter without Packages | Urdu/Hindi](https://www.youtube.com/watch?v=IsNL1k2KHcE)
-- [Getx Dialog without Context | Urdu/Hindi](https://www.youtube.com/watch?v=QWd02adghgk)
-- [Getx Controller Life Cycle Example | State Manager | Urdu/Hindi](https://www.youtube.com/watch?v=yvczDEA7N9w)
-- [Getx Controller Life Cycle Methods | State Manager | Urdu/Hindi](https://www.youtube.com/watch?v=iNSF0DSkX3M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
