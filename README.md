@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GetIt - Effective Dependency Injection using Service Locator Pattern | Urdu/Hindi | Flutter/Dart](https://www.youtube.com/watch?v=yYLnThsIGXg)
 - [Flutter Mobile App Development &amp; Market Needs Short Intro at Bano Qabil Orientation &lpar;@AlkhidmatPakistan&rpar;](https://www.youtube.com/watch?v=UUDENqVha54)
 - [Now AI will write emails and letters for you](https://www.youtube.com/watch?v=pptAjDyg-r0)
 - [Social Login in Just Few Click | @DhiWise | Urdu/Hindi](https://www.youtube.com/watch?v=DWb8LIaDCnI)
 - [Get all of your answers and solutions within 5 seconds by ChatGPT](https://www.youtube.com/watch?v=0SdjA9P6sPM)
-- [Login Interactive Form with Rive Animation | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=kNL5Eb451ns)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
