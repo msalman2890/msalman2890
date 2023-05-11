@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What&#39;s New in Flutter 3.10 &amp; Dart 3.0 | Google IO Announcements | The Game Changer | خُلاصَۂ کلام](https://www.youtube.com/watch?v=7NsBBXyCX3s)
 - [Git &amp; GitHub Crash Course | آسان الفاظ میں](https://www.youtube.com/watch?v=Gk9cwEjcPLk)
 - [GetIt - Effective Dependency Injection using Service Locator Pattern | Urdu/Hindi | Flutter/Dart](https://www.youtube.com/watch?v=yYLnThsIGXg)
 - [Flutter Mobile App Development &amp; Market Needs Short Intro at Bano Qabil Orientation &lpar;@AlkhidmatPakistan&rpar;](https://www.youtube.com/watch?v=UUDENqVha54)
 - [Now AI will write emails and letters for you](https://www.youtube.com/watch?v=pptAjDyg-r0)
-- [Social Login in Just Few Click | @DhiWise | Urdu/Hindi](https://www.youtube.com/watch?v=DWb8LIaDCnI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
