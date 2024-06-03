@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Europeans ki kamyabi ka raaz 😊😊 #germany #successmindset #lesson #lifelessons #honesty #mindset](https://www.youtube.com/watch?v=cVjr7_oMIMw)
 - [Naye Saal ki Faryad Apni Zubani! #newyear #poetry #memories #newyearresolution #newyearpoetry](https://www.youtube.com/watch?v=tnrd4rT_nZQ)
 - [No need to write Unit Test yourself, AI will write it for your code | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=o9L87B8w5uc)
 - [Falling in Love with snow❄️ at Mahudand Lake 🥰♥️ #safarnama #kumratvalley #beautyofpakistan #nature](https://www.youtube.com/watch?v=pFk2Gw2OUWc)
 - [Beauty of Kumrat Valley♥️ #safarnama #naturelover #travelphotography #kumratvalley #beautyofpakistan](https://www.youtube.com/watch?v=edNT1TYZ3gU)
-- [فولیو 3 مشاعرہ ۔ رنگِ تہذیب](https://www.youtube.com/watch?v=_xx5m8gb5w0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
