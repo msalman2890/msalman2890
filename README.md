@@ -21,11 +21,11 @@
 # 📺 Latest Youtube Videos :
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Welcome to Germany, where weather loves to surprise you!☀️🌦️  #GermanWeather #ExpectTheUnexpected](https://www.youtube.com/watch?v=L5P3HvHsQ6E)
-- [Europeans ki kamyabi ka raaz 😊😊 #germany #successmindset #lesson #lifelessons #honesty #mindset](https://www.youtube.com/watch?v=cVjr7_oMIMw)
-- [Naye Saal ki Faryad Apni Zubani! #newyear #poetry #memories #newyearresolution #newyearpoetry](https://www.youtube.com/watch?v=tnrd4rT_nZQ)
+- [Welcome to Germany, where weather loves to surprise you!☀️🌦️  #GermanWeather #ExpectTheUnexpected](https://www.youtube.com/shorts/L5P3HvHsQ6E)
+- [Europeans ki kamyabi ka raaz 😊😊 #germany #successmindset #lesson #lifelessons #honesty #mindset](https://www.youtube.com/shorts/cVjr7_oMIMw)
+- [Naye Saal ki Faryad Apni Zubani! #newyear #poetry #memories #newyearresolution #newyearpoetry](https://www.youtube.com/shorts/tnrd4rT_nZQ)
 - [No need to write Unit Test yourself, AI will write it for your code | Flutter/Dart | Urdu/Hindi](https://www.youtube.com/watch?v=o9L87B8w5uc)
-- [Falling in Love with snow❄️ at Mahudand Lake 🥰♥️ #safarnama #kumratvalley #beautyofpakistan #nature](https://www.youtube.com/watch?v=pFk2Gw2OUWc)
+- [Falling in Love with snow❄️ at Mahudand Lake 🥰♥️ #safarnama #kumratvalley #beautyofpakistan #nature](https://www.youtube.com/shorts/pFk2Gw2OUWc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
